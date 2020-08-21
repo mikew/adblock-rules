@@ -5,3 +5,6 @@ arstechnica.com##.ars-appeal-wrapper
 facebook.com##span:has-text(Suggested for You):xpath(../../../../../../../../../../../../../../../../../..)
 facebook.com##div[aria-label="Sponsored"] span[aria-label="Sponsored"]:xpath(../../../../../../../../../../../../../../../../../../../../..)
 facebook.com##div[aria-label="Sponsored"]:xpath(../../../../../../../../../../../../../../../../../../../..)
+
+! 2020-08-21 https://www.youtube.com
+www.youtube.com###chips
