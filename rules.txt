@@ -4,3 +4,4 @@ arstechnica.com##.ars-appeal-wrapper
 ! 8/11/2020 https://www.facebook.com
 facebook.com##span:has-text(Suggested for You):xpath(../../../../../../../../../../../../../../../../../..)
 facebook.com##div[aria-label="Sponsored"] span[aria-label="Sponsored"]:xpath(../../../../../../../../../../../../../../../../../../../../..)
+facebook.com##div[aria-label="Sponsored"]:xpath(../../../../../../../../../../../../../../../../../../../..)
