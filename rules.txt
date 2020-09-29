@@ -8,3 +8,7 @@ facebook.com##div[aria-label="Sponsored"]:xpath(../../../../../../../../../../..
 
 ! 2020-08-21 https://www.youtube.com
 www.youtube.com###chips
+
+! 2020-09-29 https://twitter.com
+! sorry kent but this amount of shilling is really annoying
+twitter.com##article[role="article"] div:has-text(EpicReact):xpath(../../../..)
