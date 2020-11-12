@@ -12,3 +12,4 @@ www.youtube.com###chips
 ! 2020-09-29 https://twitter.com
 ! sorry kent but this amount of shilling is really annoying
 twitter.com##article[role="article"] div:has-text(EpicReact):xpath(../../../..)
+twitter.com##span:has-text(Follow Topic):xpath(../../../../../../../../../../../../../../../../../..)
